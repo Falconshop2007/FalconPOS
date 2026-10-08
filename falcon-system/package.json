@@ -1,0 +1,9 @@
+{
+  "name": "falcon-system",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Falcon System - POS, stock, invoices and repairs for a computer & laptop shop",
+  "scripts": {
+    "start": "npx --yes serve -l 8080 ."
+  }
+}
